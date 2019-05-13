@@ -3,7 +3,7 @@ My MAC Setup.
   - Settings (my preferences - skip the ones you don't like)
   - Basic, dev and nice stuff to install (with script)
 
-#Settings
+# Settings
   - General :
     - Appearance: Dark
   - Dock :
@@ -21,7 +21,7 @@ My MAC Setup.
     - File Vault: Make sure is Turned ON
     - Firewall: Leave the default option for corporate MAC.
 
-#First thing!
+# First thing!
 
 Before running the install_basic.sh script, you will need to manually install some items.
 - Office
