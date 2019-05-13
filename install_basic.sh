@@ -13,7 +13,7 @@ brew cask install
 brew cask install wget
 
 #alfred - snippets application
-brew cask install alfred
+#brew cask install alfred
 
 #atom - text editor - alternative is sublime text
 brew cask install atom
