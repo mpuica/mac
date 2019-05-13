@@ -23,23 +23,28 @@ My MAC Setup.
 
 # First thing!
 
-Before running the install_basic.sh script, you will need to manually install some items.
-- Office
+Before running the `install_basic.sh` script, you will need to manually install some items.
+- Office 365
 - Skype for Business
 - XCode
 
 Be aware, there are things you need to install after running the installation script too.
 
-## Office365 , Skype for BUsiness and XCode
+## Office365 and  Skype for Business
+
+Your corporate image should contain the packages for Office 365 and Skype for Business
+Install and test both of them.
+
+## XCode
 
 Open App Store.
 It will prompt you to login with your AppleID.
 If you use a corporate MAC don't use your personal AppleID.
 Create a new AppleID with your corporate e-mail and use that AppleID.
 
-Once logged-in, search for `Office 365`, `Skype for Bussiness` and `XCode`,
-Open and Install each of them.
-For XCode it will take some time...
+Once logged-in, search for `XCode`,
+Open and Install.
+It will take some time...
 
 After that, we move to Terminal.
 
@@ -63,7 +68,7 @@ echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile
 brew install mas
 ```
 
-##Install Basic and Dev Tools
+## Install Basic and Dev Tools
 
 ### Edit the script install_basic.sh
 Edit the script install_basic.sh to add your git name and email and to comment out items you might not want to install
@@ -73,7 +78,7 @@ Each item is quick explained in the sh file and you can use Google to get more i
 
 Some applications will require you to enter you admin password.
 
-###Run install_basic.sh
+### Run install_basic.sh
 
 After installation is complete, you might need to close the terminal completely and re-start it.
 
