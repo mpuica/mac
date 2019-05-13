@@ -32,7 +32,8 @@ Be aware, there are things you need to install after running the installation sc
 
 ## Office365 and  Skype for Business
 
-Your corporate image should contain the packages for Office 365 and Skype for Business
+Your corporate image should contain the packages for Office 365 and Skype for Business.
+
 Install and test both of them.
 
 ## XCode
