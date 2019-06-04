@@ -50,7 +50,7 @@ brew cask install postman
 brew cask install slack
 
 #sourcetree - visual git - an alternative is tower
-brew cask install sourcetreee
+brew cask install sourcetree
 #brew cask install tower
 
 #VSC

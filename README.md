@@ -54,7 +54,7 @@ This is the package manager for MAC
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew cask
-brew tap cask/cask-upgrade
+brew cask upgrade
 ```
 Next, to make sure that we just use the apps installed with Homebrew run this in terminal.
 
